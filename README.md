@@ -15,4 +15,4 @@
 
 1. easyui + SpringMVC + Spring + Mybatis ；
 2. 数据库采用mysql；
-3. 采用maven管理；
+3. 采用maven管理111；
